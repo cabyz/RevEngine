@@ -1,39 +1,41 @@
 # ⚡️ RevEngine
-**Predictive Sales Compensation & Capital Efficiency Modeling**
+**Predictive Revenue Architectures | Capital Efficiency Protocol**
 
-[![Founder](https://img.shields.io/badge/Founder-cabyz--admin-blue.svg)](https://github.com/cabyz)
+[![Founder](https://img.shields.io/badge/Founder-cabyz-blue.svg)](https://github.com/cabyz)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build: Success](https://img.shields.io/badge/Build-Passing-green.svg)]()
+[![Streamlit](https://img.shields.io/badge/Live-Demo-red.svg)](https://revengine.streamlit.app)
 ![RevOps](https://img.shields.io/badge/RevOps-Strategic-purple)
 ![Fintech](https://img.shields.io/badge/Fintech-Quantitative-blue)
 
----
+RevEngine isn't just a dashboard. It is a high-precision, quantitative protocol designed for Founders and RevOps leaders who treat their GTM strategy like a mathematical engine.
 
-## 🌌 The Vision: Scaling to Escape Velocity
-For high-growth startups, **Capital Efficiency** is the difference between survival and death. Most sales compensation models are reactive; **RevEngine** is predictive.
+While traditional sales dashboards focus on reactive reporting, RevEngine uses **Monte Carlo Simulation** and the **Winning By Design Bowtie Model** to build predictive architectures that prioritize **Capital Efficiency** over brute-force growth.
 
-By leveraging **Monte Carlo Simulations**, RevEngine models the probability of revenue outcomes, ensuring your sales commission structures are optimized for **Foundational Profitability** and **Extreme Scale**.
+## 🚀 Live Protocol
+Access the live intelligence dashboard here: **[revengine.streamlit.app](https://revengine.streamlit.app)**
 
-## 🧬 Core Intelligence
-- **📉 Capital Efficiency Mapping**: Visualize the direct correlation between OTE, CAC, and LTV-based commission payouts.
-- **⚛️ Quantum Predictive Logic**: Run probabilistic scenarios for AE/Setter performance distributions to detect payout cliffs before they happen.
-- **📊 Real-time RevOps Intelligence**: Financial-grade modeling for SaaS, Insurance (Optimaxx+), and High-Ticket Sales.
-- **🚀 Escape Velocity Modeling**: Identify the exact tipping point where sales efficiency drives autonomous growth.
+## ⚛️ Strategic Levers
+Most companies fail to reach escape velocity because they stop at the "Funnel." RevEngine models the full **Recurring Impact** journey:
+- **Left Side (Acquisition)**: Discovery, Selection, and optimized Purchase velocity.
+- **Right Side (Impact)**: Onboarding, recurring Impact, and Expansion-driven Growth.
+- **Predictive Unit Economics**: Real-time modeling of CAC/LTV probability distributions.
+- **AI Strategic Advisor**: Leverages LLMs to act as a fractional RevOps consultant, analyzing your health scores and suggesting surgical pivots.
 
-## 🏗 Technical Architecture
-- **Engine**: TypeScript/Next.js for high-speed local inference.
-- **Simulation**: Ported from high-precision Python math models for 2025 financial standards.
-- **Logic**: Handles Deferred Payouts, Carrier Rates, and SQL-to-Close Funnel Ratios.
+## 🛠 Why RevEngine?
+1. **Challenge Assumptions**: Move beyond "gut feeling" with thousands of Monte Carlo scenarios.
+2. **Bowtie Alignment**: Native support for modern RevOps standards (Winning By Design).
+3. **Execution Ready**: Lightning-fast inference optimized for boardroom decision-making.
 
-## 🚀 Deployment
+## 📦 Deployment
 ```bash
 git clone https://github.com/cabyz/RevEngine.git
 pnpm install
-pnpm dev
+# To run the core protocol locally:
+streamlit run app.py
 ```
 
-## 🧠 Advisor Insight
-*This project is built for Founders and RevOps Leaders who treat their sales floor like a high-performance engine. If you can't predict your payouts, you can't scale your company.*
+## 🧠 Open Source Ambition
+RevEngine is the seed for a global standard in **Quantitative GTM Engineering**. We invite RevOps engineers, Fintech developers, and Growth leaders to contribute to our predictive modules.
 
 ---
-*Built with ❤️ by [cabyz](https://github.com/cabyz) — Architecting Capital Efficient Growth.*
+*Built with ❤️ by [cabyz](https://github.com/cabyz) — Predictive. Efficient. Scaling.*
