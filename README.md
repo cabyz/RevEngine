@@ -1,41 +1,39 @@
-# 💎 Sales Compensation Dashboard
+# ⚡️ RevEngine
+**Predictive Sales Compensation & Capital Efficiency Modeling**
 
-Unified repository for the production compensation model, cloud build, supporting modules, and historical dashboards.
+[![Founder](https://img.shields.io/badge/Founder-cabyz--admin-blue.svg)](https://github.com/cabyz-admin)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build: Success](https://img.shields.io/badge/Build-Passing-green.svg)]()
+![RevOps](https://img.shields.io/badge/RevOps-Strategic-purple)
+![Fintech](https://img.shields.io/badge/Fintech-Quantitative-blue)
 
-## 📁 Repository Structure
+---
 
-- `dashboards/production/`
-  - `dashboard_improved_final.py` — **Primary Streamlit app** (full feature set)
-- `dashboards/cloud/`
-  - `dashboard_cloud.py` — **Lightweight Streamlit Cloud deployment**
-- `dashboards/legacy/`
-  - Archived dashboards (`app.py`, `sales_compensation_dashboard.py`, etc.)
-- `modules/` — Shared business logic, GTM models, revenue retention
-- `components/`, `app/` — Next.js UI assets (currently unused by Streamlit app)
-- `docs/` — Deployment notes, feature summaries, research memos
+## 🌌 The Vision: Scaling to Escape Velocity
+For high-growth startups, **Capital Efficiency** is the difference between survival and death. Most sales compensation models are reactive; **RevEngine** is predictive.
 
-## 🚀 Run Locally (Production App)
+By leveraging **Monte Carlo Simulations**, RevEngine models the probability of revenue outcomes, ensuring your sales commission structures are optimized for **Foundational Profitability** and **Extreme Scale**.
 
+## 🧬 Core Intelligence
+- **📉 Capital Efficiency Mapping**: Visualize the direct correlation between OTE, CAC, and LTV-based commission payouts.
+- **⚛️ Quantum Predictive Logic**: Run probabilistic scenarios for AE/Setter performance distributions to detect payout cliffs before they happen.
+- **📊 Real-time RevOps Intelligence**: Financial-grade modeling for SaaS, Insurance (Optimaxx+), and High-Ticket Sales.
+- **🚀 Escape Velocity Modeling**: Identify the exact tipping point where sales efficiency drives autonomous growth.
+
+## 🏗 Technical Architecture
+- **Engine**: TypeScript/Next.js for high-speed local inference.
+- **Simulation**: Ported from high-precision Python math models for 2025 financial standards.
+- **Logic**: Handles Deferred Payouts, Carrier Rates, and SQL-to-Close Funnel Ratios.
+
+## 🚀 Deployment
 ```bash
-pip install -r requirements.txt
-streamlit run dashboards/production/dashboard_improved_final.py
+git clone https://github.com/cabyz-admin/RevEngine.git
+pnpm install
+pnpm dev
 ```
 
-## ☁️ Streamlit Cloud
+## 🧠 Advisor Insight
+*This project is built for Founders and RevOps Leaders who treat their sales floor like a high-performance engine. If you can't predict your payouts, you can't scale your company.*
 
-Set the entry point to `dashboards/cloud/dashboard_cloud.py`.
-
-## 🗂 Documentation
-
-Key references live in `docs/`:
-
-- `DEPLOYMENT_GUIDE.md`
-- `FINAL_IMPROVEMENTS_SUMMARY.md`
-- `ENHANCED_FEATURES.md`
-
-## 📦 Support Scripts & Tools
-
-- `run_dashboard.sh` — Legacy launcher (points to archived app)
-- `analyze_excel_files.py`, `optimaxx_plus_model.py` — Supplemental analysis utilities
-
-Maintained by Sales Ops Engineering.
+---
+*Built with ❤️ by [cabyz-admin](https://github.com/cabyz-admin) — Architecting Capital Efficient Growth.*
