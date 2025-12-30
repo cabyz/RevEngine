@@ -1,7 +1,7 @@
 # ⚡️ RevEngine
 **Predictive Sales Compensation & Capital Efficiency Modeling**
 
-[![Founder](https://img.shields.io/badge/Founder-cabyz--admin-blue.svg)](https://github.com/cabyz-admin)
+[![Founder](https://img.shields.io/badge/Founder-cabyz--admin-blue.svg)](https://github.com/cabyz)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build: Success](https://img.shields.io/badge/Build-Passing-green.svg)]()
 ![RevOps](https://img.shields.io/badge/RevOps-Strategic-purple)
@@ -27,7 +27,7 @@ By leveraging **Monte Carlo Simulations**, RevEngine models the probability of r
 
 ## 🚀 Deployment
 ```bash
-git clone https://github.com/cabyz-admin/RevEngine.git
+git clone https://github.com/cabyz/RevEngine.git
 pnpm install
 pnpm dev
 ```
@@ -36,4 +36,4 @@ pnpm dev
 *This project is built for Founders and RevOps Leaders who treat their sales floor like a high-performance engine. If you can't predict your payouts, you can't scale your company.*
 
 ---
-*Built with ❤️ by [cabyz-admin](https://github.com/cabyz-admin) — Architecting Capital Efficient Growth.*
+*Built with ❤️ by [cabyz](https://github.com/cabyz) — Architecting Capital Efficient Growth.*
